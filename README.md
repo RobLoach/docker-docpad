@@ -1,4 +1,6 @@
-# DocPad Docker
+# Deprecated
+
+This has moved over to [DocPad's Dockerfile repostiroy](http://github.com/docpad/dockerfile).
 
 Dockerfile that allows use of [DocPad](http://docpad.org).
 
